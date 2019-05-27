@@ -22,7 +22,7 @@
 
 <div id="bar">
 <div id="bar_logo">
-<a href="/main" class="h2">낚시모아</a>
+<a href="/main" class="h2">낚씨~~~~~~~~~~~~~~</a>
 	<h4 class="text-light">
 		<c:if test="${empty login }">
 			<a href="/member/join">회원가입</a>
